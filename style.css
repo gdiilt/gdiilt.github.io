@@ -23,7 +23,7 @@ body {
     line-height: 1.4333;
     margin: 2.35vw;
     color: rgba(255, 255, 255, 0.6);
-    background: #57595F;
+    background: #3b3c40;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -70,7 +70,7 @@ strong {
   box-sizing: border-box;
   top: 0;
   height: 5.6vw;
-  background: #57595F;
+  background: #3b3c40;
 }
 
 .logo {
